@@ -1,6 +1,7 @@
-The rainbow
+The rainbow and the flower
 blue
 red 
 green
 yellow
 apple
+floower 

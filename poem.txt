@@ -7,3 +7,4 @@ apple
 purple
 floower 
 theres a dog
+earth
